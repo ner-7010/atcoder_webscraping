@@ -35,9 +35,9 @@ time.sleep(3)
 # questions = "abc310"
 # question = "abc310_c"
 
-x = 737
+x = 1
 
-while x <= 800:
+while x <= 1600:
     try:
         questions_url = "https://kenkoooo.com/atcoder/#/table/"
         driver.get(questions_url)
